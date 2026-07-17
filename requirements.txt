@@ -1,1 +1,35 @@
 
+# =============================================================================
+# Lightweight Malaria Cell Classification
+#
+# Author: Please Lukau
+# University of Illinois Chicago
+#
+# Install:
+#     pip install -r requirements.txt
+#
+# Python Version:
+#     Python 3.11+
+# =============================================================================
+
+# Numerical Computing
+numpy>=1.26,<3.0
+
+# Data Analysis
+pandas>=2.2,<3.0
+
+# Computer Vision
+opencv-python>=4.10,<5.0
+
+# Machine Learning
+scikit-learn>=1.5,<2.0
+
+# Plotting
+matplotlib>=3.9,<4.0
+
+# Progress Bars
+tqdm>=4.66,<5.0
+
+# Jupyter Notebook
+jupyter>=1.1,<2.0
+ipykernel>=6.29,<7.0
