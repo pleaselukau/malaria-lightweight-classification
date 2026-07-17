@@ -1,10 +1,10 @@
 # Lightweight Malaria Cell Classification Using Color Histogram Features and Random Forests
 
-> A systematic investigation of lightweight color representations for malaria cell classification using classical machine learning.
-> 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Status](https://img.shields.io/badge/Status-Research%20In%20Progress-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+> A systematic investigation of lightweight color representations for malaria cell classification using classical machine learning.
 ---
 
 ## Overview
